@@ -21,7 +21,7 @@ go get github.com/billowdev/clog
 ```go
 package main
 
-import "github.com/yourusername/clog"
+import "github.com/billowdev/clog"
 
 func main() {
     // Configure logging
