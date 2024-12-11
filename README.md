@@ -14,7 +14,7 @@ A powerful, colorful, and feature-rich logging package that provides enhanced lo
 
 ### 📥 Installation
 ```bash
-go get github.com/yourusername/clog
+go get github.com/billowdev/clog
 ```
 
 ### 🔰 Quick Start
